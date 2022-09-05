@@ -1,0 +1,28 @@
+.calender-page-main{
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttons-container{
+    margin-top: 50px;
+}
+.green-button, .red-button{
+    margin: 15px;
+    height: 30px;
+    width: 130px;
+    border: #ffcb74;
+    border-radius: 4px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    font-family: 400;
+}
+.green-button{
+    background-color: #9bf54c;
+}
+
+.red-button{
+    background-color: #ff3f3f;
+}

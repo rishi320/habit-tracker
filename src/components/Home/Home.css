@@ -1,0 +1,68 @@
+.quote__container{
+    padding: 40px 125px;
+    text-align: center;
+  }
+  
+  .quote{
+    font-family: 'Caveat', cursive;
+    font-weight: 500;
+    font-size: 24px;
+    margin: 0;
+    color: #111111;
+  }
+  
+  .habit_container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .add_habit{
+    height: 50px;
+    width: 220px;
+    background-color: #ffcb74;
+    border: #ffcb74;
+    border-radius: 12px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 20px;
+    font-family: 400;
+  }
+  
+  .habit_input{
+    margin-top: 20px;
+  }
+  
+  .habit_input > input {
+    height: 40px;
+    width: 500px;
+    border-radius: 7px;
+    border: 1px solid #ffcb74;
+    margin-right: 30px;
+    padding-left: 15px;
+    font-size: 16px;
+    font-family: 'Noto Sans', sans-serif;
+  }
+  
+  .habit_input > button{
+    height: 40px;
+    width: 150px;
+    background-color: #ffcb74;
+    border: #ffcb74;
+    border-radius: 8px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+  
+  }
+  
+  .habit_list{
+    margin-top: 30px;
+  }
+  
+  .habit_list > p{
+    font-family:  'Noto Sans', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    /* color: #ffcb74; */
+  
+  }
